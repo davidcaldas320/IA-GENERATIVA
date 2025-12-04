@@ -5,7 +5,7 @@ Um agente simples que recebe mensagens no terminal e responde utilizando a API G
 ## 🚀 Tecnologias utilizadas
 - Python 3
 - Biblioteca `google-generativeai`
-- Modelo **Gemini 1.5 Flash**
+- Modelo **Gemini 2.5 Flash**
 
 ---
 
