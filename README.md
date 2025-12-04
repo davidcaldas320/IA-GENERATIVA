@@ -15,3 +15,5 @@ No terminal, dentro da pasta do projeto:
 
 ```bash
 pip install -r requirements.txt
+
+pip install google-generativeai
